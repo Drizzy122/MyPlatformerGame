@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/My3DPlatformerGame/Scenes/MainMenuScene/MainMenu.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/My3DPlatformerGame/Menu/Scene/scene.unity
+    guid: e69ce8767f46f63449002113043e1664
+  - enabled: 1
+    path: Assets/My3DPlatformerGame/Scenes/TestingPlayGroundScene/PlayGroundScene.unity
+    guid: 587184145dfd87c4b899d036eb6ae9f1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
