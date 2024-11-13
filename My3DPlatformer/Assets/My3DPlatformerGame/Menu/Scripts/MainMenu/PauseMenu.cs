@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-/*
+
 public class PauseMenu : MonoBehaviour
 {
     
@@ -106,4 +106,3 @@ public class PauseMenu : MonoBehaviour
     }
     
 }
-*/

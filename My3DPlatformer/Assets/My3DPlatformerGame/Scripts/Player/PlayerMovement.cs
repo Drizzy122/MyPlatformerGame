@@ -147,6 +147,7 @@ public class PlayerMovement : MonoBehaviour, IDataPersistence
         // Debug.Log("Saving player position: " + this.transform.position.ToString());
         data.playerPosition = this.transform.position;
     }
+    /*
     private void OnApplicationFocus(bool focus)
     {
         if (focus)
@@ -158,4 +159,5 @@ public class PlayerMovement : MonoBehaviour, IDataPersistence
             Cursor.lockState = CursorLockMode.None;
         }
     }
+    */
 }
